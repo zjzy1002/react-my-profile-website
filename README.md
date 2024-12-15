@@ -33,7 +33,3 @@ In the project directory, you can run:
 
 3. Run `npm start`
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
-<<<<<<< HEAD
-=======
-
->>>>>>> 70f616d01a2baa49868f01b645f9c8fe29fdb279
