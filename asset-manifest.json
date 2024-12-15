@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/zjzy1002/react-my-profile-website/static/css/main.0ddb0856.css",
+    "main.js": "/zjzy1002/react-my-profile-website/static/js/main.89e7af38.js",
+    "static/media/campingsite.png": "/zjzy1002/react-my-profile-website/static/media/campingsite.bad2148daa6a8e47e329.png",
+    "static/media/deliveryservice.png": "/zjzy1002/react-my-profile-website/static/media/deliveryservice.06bedf256982c4cc2e17.png",
+    "static/media/email.png": "/zjzy1002/react-my-profile-website/static/media/email.288319097b0c992ee4c2.png",
+    "static/media/vendingmachine.png": "/zjzy1002/react-my-profile-website/static/media/vendingmachine.86c84f2332cc7c3cbfb5.png",
+    "static/media/me.jpg": "/zjzy1002/react-my-profile-website/static/media/me.03f9607f817b5eeebe43.jpg",
+    "index.html": "/zjzy1002/react-my-profile-website/index.html",
+    "main.0ddb0856.css.map": "/zjzy1002/react-my-profile-website/static/css/main.0ddb0856.css.map",
+    "main.89e7af38.js.map": "/zjzy1002/react-my-profile-website/static/js/main.89e7af38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ddb0856.css",
+    "static/js/main.89e7af38.js"
+  ]
+}
